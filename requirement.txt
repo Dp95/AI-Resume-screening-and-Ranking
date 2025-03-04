@@ -1,1 +1,21 @@
 
+Python: A versatile programming language widely used for AI and ML projects.
+
+Natural Language Processing (NLP) Libraries:
+spaCy: For powerful NLP processing and text analysis.
+NLTK: Another popular NLP library for text processing.
+TextBlob: For simple NLP tasks and sentiment analysis.
+
+Machine Learning Libraries:
+scikit-learn: For implementing machine learning algorithms like K-Nearest Neighbors (KNN) and TF-IDF for resume ranking.
+
+Data Handling and Parsing:
+pdfplumber: For extracting text from PDF resumes.
+PyMuPDF: For working with PDF files.
+
+Web Frameworks:
+Streamlit: For quickly building interactive web applications.
+
+Other Useful Tools:
+Vscode : For executing 
+Jupyter Notebooks: For experimentation and prototyping.
