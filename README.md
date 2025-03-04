@@ -11,3 +11,13 @@ NLP-based Keyword Matching: Identifies skills and qualifications using NLP algor
 Automated Shortlisting: Reduces manual effort by pre-selecting top candidates.
 Interactive Dashboard: Visualizes candidate rankings and provides insights.
 Customizable Scoring Criteria: Modify ranking parameters to suit different job roles.
+
+
+For  executing in CMD prompt/ Power shell in Vscode
+
+command 1:- 
+pip install streamlit pdfplumber spacy scikit-learn pandas
+python -m spacy download en_core_web_sm
+
+command 2:-
+#streamlit run your_script.py
