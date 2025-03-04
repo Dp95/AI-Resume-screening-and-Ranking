@@ -13,7 +13,10 @@ Interactive Dashboard: Visualizes candidate rankings and provides insights.
 Customizable Scoring Criteria: Modify ranking parameters to suit different job roles.
 
 
-For  executing in CMD prompt/ Power shell in Vscode
+
+----------------------------------------------------------------------
+
+**For  executing in CMD prompt/ Power shell in Vscode**
 
 command 1:- 
 pip install streamlit pdfplumber spacy scikit-learn pandas
